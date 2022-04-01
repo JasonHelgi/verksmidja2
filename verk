@@ -121,3 +121,90 @@ what are the options when you right click on a browser in task manager
 >resource values
 >search online
 
+what statuses are listed
+>stopped and running
+
+what are te available actions that can be taken
+>stop/start
+>restart
+>open services
+>search online 
+>go to details
+
+what is the current utilasation of the CPU
+>it is fluxuating between 1 and 20 precent
+
+how many threads are running
+>1286
+
+how many apps,background processes and windows processes are currently running
+>124
+
+what is the total physical memory
+>9600 MB
+
+what is the available physical memory
+>5000 MB
+
+How much physical memory is being used my the computer
+>2600 MB /2.6 GB
+
+what is the link speed
+>100 kbps
+
+what type of connection type is in use
+>Ethernet
+
+what os the IPv4 address of the pc
+>10.11.214.77
+
+Click the Memory heading twice. What effect does this have on the columns?
+>it sorts the processes by who uses the least memory
+
+how could this be usefull
+>when you are tryong to see what processes are not using memory
+
+Right-click on the Memory heading, and then select Resource values > Memory > Percents.
+What affect does this have on the Memory column?
+>it shows hom much memory processes use with precenteges instead of Megabytes
+
+what categoreis are listed in the processes tab
+>apps
+>backround processes
+>windows processes
+
+what are the available options when you right click a user in the users tab
+>expand
+>disconnect
+>manage user accounts
+
+what is are the options when you right click a process in startup tab
+>enable
+>open file location
+>search online
+>properteis
+
+what information can you get in the app history
+>you can see what app uses has
+>the most cpu time
+>most network usage
+>meterd netwokr
+>tile updates
+
+The Details tab displays process information such as process ID (PID), status, and memory utilization.
+Right-click a process and list the available options below.
+>end taks
+>end process tree
+>rovide feedback
+>et priority
+>et affinity
+>nalyse wait chain
+>AC virtualization
+>reate dump file
+>pen file location
+>earch online
+>roperties
+>go to service(s)
+
+#11.1.4.11 
+
