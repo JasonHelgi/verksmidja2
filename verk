@@ -208,3 +208,228 @@ Right-click a process and list the available options below.
 
 #11.1.4.11 
 
+what happens when you move a folder form desktop to another desktop folder
+>folder 1 stayed the same folder 2 dissapeared
+
+What is the file extension for the text document?
+>txt
+
+Make a copy of the text document and place it in Folder2.
+How would you do it
+>right click and press copy then go to folder 2 ad press paste
+
+Right-click the text document > click Properties. Click the Details tab.
+What are the attributes associated with this file
+>Name
+>type
+>folder path
+>size
+>date created
+>date modified
+>attributes
+>owner
+>computer
+
+What is the complete path to Folder3?
+>c:\users\Jason Helgi\Desktop\fold1\fold2\fold3
+
+Drag and drop Folder1 onto Quick Access
+What happened? Why would you want to do this?
+>the folder gets pinned to the quick access bar so you can access it quickly
+
+What are folders listed in the Local Disk (C:)?
+>intel
+>prefLogs
+>program files
+>program files(x86)
+>users
+>windows
+
+Open the Users folder. List all the folders in the directory.
+>Jason helgi
+>public
+
+Were you able to open it? Explain.
+>yes i just double clicked and it opened
+
+Open the Public folder. List all the folders in the directory
+>public documents
+>public downloads
+>public music
+>public pictures
+>public videos
+
+Which folders or files listed under the Libraries heading?
+>quick access
+>one drive
+>this pc
+>libraries
+>network
+
+#11.2.1.5 
+
+What are the viewing options in control panel
+>Category, Large icons, and Small icons.
+
+Name a few of the Control Panel categories
+>System and Security
+>Network and Internet 
+>Hardware and Sound 
+>Programs 
+>User Accounts 
+>Appearance and Personalization 
+>Clock and Region
+>Ease of Access
+
+Which subcategory in system snd security would help you troubleshoot common problems?
+>Security and Maintenance > troubleshoot common computer problems
+
+Which subcategory allow a program through Windows Firewall?
+>Windows Defender Firewall > Allow an app or feature through Windows Defender Firewall
+
+Which subcategory in network and internet allows you to view the basic network information and set up connections?
+>Network and Sharing Center
+
+Which subcategory allows you to choose what happens when you insert a media or device?
+>AutoPlay
+
+Which subcategory allows you to add a printer?
+>Devices and Printers > Add a printer
+
+Which subcategory would you use to have a specific file type always open in a specified program?
+>Default Programs > set your default programs or Default Programs > Associate a file type or protocol with a program
+
+Which subcategory would you use to uninstall a program?
+>Programs and Features > uninstall a program
+
+Which subcategory would you use to install the Windows telnet client?
+>Programs and Features > Turn Windows features on or off
+
+Which subcategory would you use change the account type from administrator to standard?
+>User Accounts > Change your account type
+
+Which subcategory would you use to view, edit, or remove the web and Windows credentials?
+>Credential Manager
+
+Which subcategory would you use to customize the Taskbar?
+>Windows 10 and 8.1: Taskbar and Navigation, Windows 7: Taskbar and Start Menu
+
+Which subcategory would you use to show hidden files and folders?
+>File Explorer Options in Windows 10 >sIn the View tab, click Show hidden files, folders, or drives
+
+Which subcategory would you use to show extensions for known file types?
+>File Explorer Options in Windows 10 > Files and Folders > In the View tab, uncheck Hide extensions for known file types
+
+Which subcategory would you use to change the time zone?
+>Date and Time > Change the time zone
+
+Which subcategory would you use to change date format?
+>Region in Windows 10 
+
+Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet?
+>Date and Time > Internet Time > select Change settings
+
+Which subcategory would you use to configure the computer to read aloud any text on the screen?
+>Ease of Access Center > Make the computer easier to use > check Turn on Narrator
+
+Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy?
+>Speech Recognition > Train your computer to better understand you
+
+#11.2.2.3
+What can a user do with a limited account?
+>The user can use most software and change some system settings.
+
+What limitations does this type of an account have?
+>The user cannot change system settings that affect other users or the security of the computer.
+
+What information is listed for the new account?
+>The account name and that the account is a standard user account.
+
+What is the advantage of having most users work within a Standard user account?
+>A standard user account can prevent users from altering files and settings that may affect the computer as a whole or other users.
+
+Why is it important to protect all accounts with strong passwords?
+>No password or a weak password can allow access from almost anyone to steal data
+
+Why would you create a user with Standard privileges?
+>The Standard User cannot compromise the security of the computer or the privacy of other users.
+
+In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
+>The user account is an employee that is being terminated and the files contain required business information and should be retained.
+
+#11.2.5.8
+
+What is the current size of the virtual memory (paging file)?
+>1920mb
+
+#11.2.6.2
+
+What information is listed in the Device Manager window? Why would you use it?
+>Device Manager lists all the hardware devices installed on your computer.
+
+Browse through the menus displayed at the top of the Device Manager window. How would you install driver software for 
+an older device that may not be automatically recognized by the Windows operating system?
+>Device Manager > Action tab > Add legacy hardware.
+
+What additional information does Driver Details provide?
+>provider
+>file version
+>copyright
+>digital signer
+
+What two options do you have for updating the driver?
+>You can search automatically, which will search the computer and internet for the latest driver software
+
+What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out?
+>It allows you to uninstall newly installed driver software and revert back to the driver that was used prior to a driver upgrade.
+>The button is grayed out because a new driver has not been installed.
+
+What are the other available options?
+>The other options are disable device and uninstall devices.
+
+#11.3.1.11
+
+What message did you receive? How would you fix this?
+>The message received: Before you can perform printer-related tasks 
+>such as page setup or printing a document, you need to install a printer. You will need to restart the print spooler.
+
+When DHCP Client stops, what other services will also be stopped?
+>IP Helper,
+>WinHTTP Web Proxy Auto-Discovery Service,
+>Network List Service, 
+>Network Location Awareness.
+
+Why is it important to exercise care when managing services?
+>Applications and other services may depend on a given service to work. 
+>Stopping a service can compromise the operation of other services.
+
+#11.3.2.7
+
+What was the path you use to navigate to the Event Viewer?
+>Your console > Management Tools > Computer Management > System Tools > Event Viewer
+
+What is the background picture?
+>the default windows 10 picture
+
+#11.3.2.8
+
+Under the System Summary heading locate and list the following:
+>Processor: Intel(R) core(tm) i3-4160 CPU @3.60GHz, 3600 Mhz, 2 cores, 4 logical proceccors
+>BIOS Version/Date: American magatrends inc. p1.60, 12/22/2015
+>Total Physical Memory: 7.68 GB
+
+Under the Hardware Resources heading, locate and list the following:
+DMA channels and the device using the resources.
+>Channel 4 Direct memory access controller
+
+Under the Components heading locate and list the following:
+>Adapter Description:
+
+Answers will vary. A sample answer is Radeon RX 580 Series
+
+Adapter RAM:
+
+Answers will vary. A sample answer is (1,048,576) bytes
+
+Under the Software Environment heading, where would you find the applications that automatically load when the computer boots?
+Startup Programs
